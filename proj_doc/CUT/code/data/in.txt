@@ -1,0 +1,5 @@
+ABCD:Pipe bending:M1:45:Expert Accessories
+0002:Surface cleaning:M2:30:Nice parts makers
+X001:Quality checking:m2:60
+.003:Barking:M1:30:Paper_industry
+ :Chemical Pulping:M3:35

@@ -1,0 +1,5 @@
+J001:Surface painting:M1:30:abc
+j02:Packaging:M2:45:dddd
+J3:Book binding:M3:50:Unicode Automations:.......
+j004:Levering:M2:20:xxx
+J005:Iron weilding:M3:60:LTPS Infra
